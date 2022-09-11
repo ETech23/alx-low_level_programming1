@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/*
+/**
  * main - prints positive and negative number
- * Retuen: 0 success
+ * Return: 0 success
  */
 
 int main(void)
